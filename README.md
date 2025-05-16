@@ -1,5 +1,3 @@
----
-
 ## 🌱 NutriPlant - Backend
 
 **NutriPlant** es una plataforma enfocada en la nutrición de plantas, que permite gestionar información clave para el seguimiento de cultivos y recomendaciones de fertilización. Este backend está desarrollado en **Django** con **Django REST Framework**, proporcionando una API robusta y escalable.
@@ -32,5 +30,3 @@ NutriPlant is a platform focused on plant nutrition, enabling the management of 
     User authentication and authorization
 
 The project aims to provide an efficient digital solution for farmers and agronomists, making agronomic data management easier and promoting more sustainable practices.
-
----
